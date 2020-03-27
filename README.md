@@ -32,13 +32,13 @@ Oh My Fish provides core infrastructure to allow you to install packages which e
 You can get started right away with the default setup by running this in your terminal:
 
 ```fish
-curl -L https://git.io/omf | fish
+curl -L https://git.io/JvHzw | fish
 ```
 
 This will download the installer script and start the installation. Alternatively, you can download the installer and customize your install:
 
 ```fish
-curl -L https://git.io/omf > install
+curl -L https://git.io/JvHzw > install
 fish install --path=~/.local/share/omf --config=~/.config/omf
 ```
 
@@ -56,7 +56,7 @@ $ git clone https://www.github.com/myklhenn/oh-my-fish
 $ cd oh-my-fish
 $ bin/install --offline
 # with a tarball
-$ curl -L https://git.io/omf > install
+$ curl -L https://git.io/JvHzw > install
 $ fish install --offline=omf.tar.gz
 ```
 
